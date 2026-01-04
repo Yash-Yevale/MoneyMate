@@ -1,4 +1,4 @@
-# PocketBuddy
+# MoneyMate
 
 ## Description
 This is a personal finance manager that allows users to track their income and expenses. Users can create an account, log in, and add transactions to their accounts. The app will display the user's current balance, as well as a chart of their income and expenses. Users can also edit and delete transactions. 
